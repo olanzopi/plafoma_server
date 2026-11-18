@@ -1,7 +1,7 @@
 # Plafoma backend server
 
-this is the backend server for a unity platformer game. it handles user authenticating, levels, leaderboards, replays.
+This is the backend server for a unity platformer game. it handles user authenticating, levels, leaderboards and replays.
 
-Execute through docker or through whatever else u want lol.
+This can be run through docker. but you can execute the script however you prefer.
 
-writeen in PHP and MySql
+writen in PHP and MySql
